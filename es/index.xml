@@ -20,7 +20,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#poni%c3%a9ndose-en-contacto-con-chia-kuan-ubicaci%c3%b3n-y-acceso&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#poni%c3%a9ndose-en-contacto-con-chia-kuan-ubicaci%c3%b3n-y-acceso&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -30,19 +31,14 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#informaci%c3%b3n-de-contacto&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#informaci%c3%b3n-de-contacto&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Correo electrónico:&lt;/strong&gt; &lt;a
-  href=&#34;mailto:info@chiakuan.com.tw&#34;&gt;info@chiakuan.com.tw&lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Dirección:&lt;/strong&gt; &lt;a
-  href=&#34;https://maps.app.goo.gl/7hUMsbEfg9avEUaR6&#34;
-    target=&#34;_blank&#34;
-  &gt;No. 939, Ren Ai Road, Zhunan Township, Condado de Miaoli, Taiwán&lt;/a&gt;
-&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Correo electrónico:&lt;/strong&gt; &lt;a href=&#34;mailto:info@chiakuan.com.tw&#34;&gt;info@chiakuan.com.tw&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dirección:&lt;/strong&gt; &lt;a href=&#34;https://maps.app.goo.gl/7hUMsbEfg9avEUaR6&#34; target=&#34;_blank&#34;&gt;No. 939, Ren Ai Road, Zhunan Township, Condado de Miaoli, Taiwán&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 class=&#34;relative group&#34;&gt;Indicaciones para Llegar a Nuestra Instalación 
@@ -50,7 +46,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#indicaciones-para-llegar-a-nuestra-instalaci%c3%b3n&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#indicaciones-para-llegar-a-nuestra-instalaci%c3%b3n&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -70,7 +67,8 @@ Tome la Carretera Nacional No. 1, cambie a la Carretera Nacional No. 3 y salga e
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#avanzando-en-el-desarrollo-y-dise%c3%b1o-de-moldes-para-manufactura-de-precisi%c3%b3n&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#avanzando-en-el-desarrollo-y-dise%c3%b1o-de-moldes-para-manufactura-de-precisi%c3%b3n&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -89,7 +87,8 @@ Tome la Carretera Nacional No. 1, cambie a la Carretera Nacional No. 3 y salga e
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#legado-y-compromiso-en-la-fabricaci%c3%b3n-precisa-de-pl%c3%a1sticos&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#legado-y-compromiso-en-la-fabricaci%c3%b3n-precisa-de-pl%c3%a1sticos&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -99,7 +98,8 @@ Tome la Carretera Nacional No. 1, cambie a la Carretera Nacional No. 3 y salga e
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#m%c3%a1s-de-36-a%c3%b1os-de-experiencia-en-taiw%c3%a1n&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#m%c3%a1s-de-36-a%c3%b1os-de-experiencia-en-taiw%c3%a1n&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -118,7 +118,8 @@ Tome la Carretera Nacional No. 1, cambie a la Carretera Nacional No. 3 y salga e
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#descripci%c3%b3n-completa-de-los-espacios-de-la-instalaci%c3%b3n-y-entornos-de-trabajo&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#descripci%c3%b3n-completa-de-los-espacios-de-la-instalaci%c3%b3n-y-entornos-de-trabajo&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -137,7 +138,8 @@ Tome la Carretera Nacional No. 1, cambie a la Carretera Nacional No. 3 y salga e
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#soluciones-integradas-para-moldeo-por-inyecci%c3%b3n-de-pl%c3%a1stico-y-desarrollo-de-moldes&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#soluciones-integradas-para-moldeo-por-inyecci%c3%b3n-de-pl%c3%a1stico-y-desarrollo-de-moldes&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -156,7 +158,8 @@ Tome la Carretera Nacional No. 1, cambie a la Carretera Nacional No. 3 y salga e
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#versatilidad-del-moldeo-por-inyecci%c3%b3n-de-pl%c3%a1stico-en-la-manufactura-moderna&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#versatilidad-del-moldeo-por-inyecci%c3%b3n-de-pl%c3%a1stico-en-la-manufactura-moderna&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -175,7 +178,8 @@ Tome la Carretera Nacional No. 1, cambie a la Carretera Nacional No. 3 y salga e
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#panorama-del-equipo-para-moldeo-por-inyecci%c3%b3n-de-pl%c3%a1stico&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#panorama-del-equipo-para-moldeo-por-inyecci%c3%b3n-de-pl%c3%a1stico&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -194,7 +198,8 @@ Tome la Carretera Nacional No. 1, cambie a la Carretera Nacional No. 3 y salga e
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#herramientas-avanzadas-que-potencian-el-desarrollo-y-dise%c3%b1o-de-moldes&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#herramientas-avanzadas-que-potencian-el-desarrollo-y-dise%c3%b1o-de-moldes&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -213,7 +218,8 @@ Tome la Carretera Nacional No. 1, cambie a la Carretera Nacional No. 3 y salga e
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#pr%c3%a1cticas-sostenibles-para-un-futuro-m%c3%a1s-verde&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#pr%c3%a1cticas-sostenibles-para-un-futuro-m%c3%a1s-verde&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -232,7 +238,8 @@ Tome la Carretera Nacional No. 1, cambie a la Carretera Nacional No. 3 y salga e
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#gu%c3%ada-completa-del-proceso-de-desarrollo-de-moldes&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#gu%c3%ada-completa-del-proceso-de-desarrollo-de-moldes&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -251,7 +258,8 @@ Tome la Carretera Nacional No. 1, cambie a la Carretera Nacional No. 3 y salga e
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#principios-clave-y-proceso-del-moldeo-por-inyecci%c3%b3n-de-pl%c3%a1stico&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#principios-clave-y-proceso-del-moldeo-por-inyecci%c3%b3n-de-pl%c3%a1stico&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -270,19 +278,12 @@ Tome la Carretera Nacional No. 1, cambie a la Carretera Nacional No. 3 y salga e
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#expandiendo-nuestra-presencia-mundial&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#expandiendo-nuestra-presencia-mundial&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;Chia Kuan ha establecido una reputación por ofrecer calidad confiable y entrega puntual tanto en &lt;a
-  href=&#34;https://www.chiakuan.com/webls-en-us/what-is-plastic-injection-molding.html&#34;
-    target=&#34;_blank&#34;
-  &gt;Moldeo por Inyección&lt;/a&gt;
- como en &lt;a
-  href=&#34;https://www.chiakuan.com/webls-en-us/what-is-mold-development.html&#34;
-    target=&#34;_blank&#34;
-  &gt;Desarrollo de Moldes&lt;/a&gt;
-. Nuestra dedicación a la excelencia nos ha ganado reconocimiento de clientes a nivel mundial.&lt;/p&gt;</description>
+&lt;p&gt;Chia Kuan ha establecido una reputación por ofrecer calidad confiable y entrega puntual tanto en &lt;a href=&#34;https://www.chiakuan.com/webls-en-us/what-is-plastic-injection-molding.html&#34; target=&#34;_blank&#34;&gt;Moldeo por Inyección&lt;/a&gt; como en &lt;a href=&#34;https://www.chiakuan.com/webls-en-us/what-is-mold-development.html&#34; target=&#34;_blank&#34;&gt;Desarrollo de Moldes&lt;/a&gt;. Nuestra dedicación a la excelencia nos ha ganado reconocimiento de clientes a nivel mundial.&lt;/p&gt;</description>
       
     </item>
     
@@ -297,7 +298,8 @@ Tome la Carretera Nacional No. 1, cambie a la Carretera Nacional No. 3 y salga e
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#hitos-e-innovaciones-en-la-manufactura-industrial&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#hitos-e-innovaciones-en-la-manufactura-industrial&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -307,7 +309,8 @@ Tome la Carretera Nacional No. 1, cambie a la Carretera Nacional No. 3 y salga e
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#destacados-recientes&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#destacados-recientes&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -326,15 +329,12 @@ Tome la Carretera Nacional No. 1, cambie a la Carretera Nacional No. 3 y salga e
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#chia-kuan-gana-el-premio-a-la-excelencia-2021&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#chia-kuan-gana-el-premio-a-la-excelencia-2021&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;&lt;a
-  href=&#34;https://www.chiakuan.com/webls-en-us/msg/msg28.html&#34;
-    target=&#34;_blank&#34;
-  &gt;Chia Kuan Industrial&lt;/a&gt;
- fue honrada con el Premio Yingguan Rock — el Premio a la Excelencia para Empresas Industriales Sobresalientes otorgado por la Asociación Industrial del Condado de Miaoli en 2021. Este reconocimiento destaca el compromiso de la empresa con la excelencia y sus contribuciones al sector industrial.&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://www.chiakuan.com/webls-en-us/msg/msg28.html&#34; target=&#34;_blank&#34;&gt;Chia Kuan Industrial&lt;/a&gt; fue honrada con el Premio Yingguan Rock — el Premio a la Excelencia para Empresas Industriales Sobresalientes otorgado por la Asociación Industrial del Condado de Miaoli en 2021. Este reconocimiento destaca el compromiso de la empresa con la excelencia y sus contribuciones al sector industrial.&lt;/p&gt;</description>
       
     </item>
     
@@ -349,7 +349,8 @@ Tome la Carretera Nacional No. 1, cambie a la Carretera Nacional No. 3 y salga e
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#direcci%c3%b3n-estrat%c3%a9gica-y-principios-fundamentales-para-la-excelencia-en-moldeo-por-inyecci%c3%b3n&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#direcci%c3%b3n-estrat%c3%a9gica-y-principios-fundamentales-para-la-excelencia-en-moldeo-por-inyecci%c3%b3n&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -359,15 +360,12 @@ Tome la Carretera Nacional No. 1, cambie a la Carretera Nacional No. 3 y salga e
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#visi%c3%b3n&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#visi%c3%b3n&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;Nuestra aspiración es convertirnos en el fabricante por contrato líder en &lt;a
-  href=&#34;https://www.chiakuan.com/webls-en-us/what-is-plastic-injection-molding.html&#34;
-    target=&#34;_blank&#34;
-  &gt;Moldeo por Inyección&lt;/a&gt;
- en Taiwán. Estamos comprometidos a establecer estándares en la industria mediante la calidad, innovación y confiabilidad en cada proyecto que emprendemos.&lt;/p&gt;</description>
+&lt;p&gt;Nuestra aspiración es convertirnos en el fabricante por contrato líder en &lt;a href=&#34;https://www.chiakuan.com/webls-en-us/what-is-plastic-injection-molding.html&#34; target=&#34;_blank&#34;&gt;Moldeo por Inyección&lt;/a&gt; en Taiwán. Estamos comprometidos a establecer estándares en la industria mediante la calidad, innovación y confiabilidad en cada proyecto que emprendemos.&lt;/p&gt;</description>
       
     </item>
     

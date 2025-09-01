@@ -20,7 +20,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ea%b8%88%ed%98%95-%ea%b0%9c%eb%b0%9c-%ed%94%84%eb%a1%9c%ec%84%b8%ec%8a%a4-%ec%a2%85%ed%95%a9-%ea%b0%80%ec%9d%b4%eb%93%9c&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%ea%b8%88%ed%98%95-%ea%b0%9c%eb%b0%9c-%ed%94%84%eb%a1%9c%ec%84%b8%ec%8a%a4-%ec%a2%85%ed%95%a9-%ea%b0%80%ec%9d%b4%eb%93%9c&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -39,7 +40,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ec%a0%95%eb%b0%80-%ec%a0%9c%ec%a1%b0%eb%a5%bc-%ec%9c%84%ed%95%9c-%ea%b8%88%ed%98%95-%ea%b0%9c%eb%b0%9c-%eb%b0%8f-%ec%84%a4%ea%b3%84%ec%9d%98-%ec%a7%84%eb%b3%b4&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%ec%a0%95%eb%b0%80-%ec%a0%9c%ec%a1%b0%eb%a5%bc-%ec%9c%84%ed%95%9c-%ea%b8%88%ed%98%95-%ea%b0%9c%eb%b0%9c-%eb%b0%8f-%ec%84%a4%ea%b3%84%ec%9d%98-%ec%a7%84%eb%b3%b4&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -58,7 +60,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ec%b9%98%ec%95%84-%ec%bd%b4%ea%b3%bc-%ec%97%b0%eb%9d%bd%ed%95%98%ea%b8%b0-%ec%9c%84%ec%b9%98-%eb%b0%8f-%ec%a0%91%ea%b7%bc-%eb%b0%a9%eb%b2%95&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%ec%b9%98%ec%95%84-%ec%bd%b4%ea%b3%bc-%ec%97%b0%eb%9d%bd%ed%95%98%ea%b8%b0-%ec%9c%84%ec%b9%98-%eb%b0%8f-%ec%a0%91%ea%b7%bc-%eb%b0%a9%eb%b2%95&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -68,19 +71,14 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ec%97%b0%eb%9d%bd%ec%b2%98-%ec%a0%95%eb%b3%b4&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%ec%97%b0%eb%9d%bd%ec%b2%98-%ec%a0%95%eb%b3%b4&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;이메일:&lt;/strong&gt; &lt;a
-  href=&#34;mailto:info@chiakuan.com.tw&#34;&gt;info@chiakuan.com.tw&lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;주소:&lt;/strong&gt; &lt;a
-  href=&#34;https://maps.app.goo.gl/7hUMsbEfg9avEUaR6&#34;
-    target=&#34;_blank&#34;
-  &gt;대만 묘리현 주난향 인애로 939번지&lt;/a&gt;
-&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;이메일:&lt;/strong&gt; &lt;a href=&#34;mailto:info@chiakuan.com.tw&#34;&gt;info@chiakuan.com.tw&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;주소:&lt;/strong&gt; &lt;a href=&#34;https://maps.app.goo.gl/7hUMsbEfg9avEUaR6&#34; target=&#34;_blank&#34;&gt;대만 묘리현 주난향 인애로 939번지&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 class=&#34;relative group&#34;&gt;시설까지 오는 길 
@@ -88,7 +86,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ec%8b%9c%ec%84%a4%ea%b9%8c%ec%a7%80-%ec%98%a4%eb%8a%94-%ea%b8%b8&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%ec%8b%9c%ec%84%a4%ea%b9%8c%ec%a7%80-%ec%98%a4%eb%8a%94-%ea%b8%b8&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -108,7 +107,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ec%8b%9c%ec%84%a4-%ea%b3%b5%ea%b0%84-%eb%b0%8f-%ec%9e%91%ec%97%85-%ed%99%98%ea%b2%bd%ec%97%90-%eb%8c%80%ed%95%9c-%ec%a2%85%ed%95%a9-%ea%b0%9c%ec%9a%94&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%ec%8b%9c%ec%84%a4-%ea%b3%b5%ea%b0%84-%eb%b0%8f-%ec%9e%91%ec%97%85-%ed%99%98%ea%b2%bd%ec%97%90-%eb%8c%80%ed%95%9c-%ec%a2%85%ed%95%a9-%ea%b0%9c%ec%9a%94&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -127,7 +127,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ed%98%84%eb%8c%80-%ec%a0%9c%ec%a1%b0%ec%97%90%ec%84%9c-%ed%94%8c%eb%9d%bc%ec%8a%a4%ed%8b%b1-%ec%82%ac%ec%b6%9c-%ec%84%b1%ed%98%95%ec%9d%98-%eb%8b%a4%ec%9e%ac%eb%8b%a4%eb%8a%a5%ec%84%b1&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%ed%98%84%eb%8c%80-%ec%a0%9c%ec%a1%b0%ec%97%90%ec%84%9c-%ed%94%8c%eb%9d%bc%ec%8a%a4%ed%8b%b1-%ec%82%ac%ec%b6%9c-%ec%84%b1%ed%98%95%ec%9d%98-%eb%8b%a4%ec%9e%ac%eb%8b%a4%eb%8a%a5%ec%84%b1&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -146,7 +147,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ed%94%8c%eb%9d%bc%ec%8a%a4%ed%8b%b1-%ec%82%ac%ec%b6%9c-%ec%84%b1%ed%98%95-%ec%9e%a5%eb%b9%84-%ed%98%84%ed%99%a9&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%ed%94%8c%eb%9d%bc%ec%8a%a4%ed%8b%b1-%ec%82%ac%ec%b6%9c-%ec%84%b1%ed%98%95-%ec%9e%a5%eb%b9%84-%ed%98%84%ed%99%a9&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -165,7 +167,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ea%b8%88%ed%98%95-%ea%b0%9c%eb%b0%9c-%eb%b0%8f-%ec%84%a4%ea%b3%84%eb%a5%bc-%ec%a7%80%ec%9b%90%ed%95%98%eb%8a%94-%ec%b2%a8%eb%8b%a8-%eb%8f%84%ea%b5%ac&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%ea%b8%88%ed%98%95-%ea%b0%9c%eb%b0%9c-%eb%b0%8f-%ec%84%a4%ea%b3%84%eb%a5%bc-%ec%a7%80%ec%9b%90%ed%95%98%eb%8a%94-%ec%b2%a8%eb%8b%a8-%eb%8f%84%ea%b5%ac&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -184,7 +187,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ed%94%8c%eb%9d%bc%ec%8a%a4%ed%8b%b1-%ec%82%ac%ec%b6%9c-%ec%84%b1%ed%98%95-%eb%b0%8f-%ea%b8%88%ed%98%95-%ea%b0%9c%eb%b0%9c%ec%9d%84-%ec%9c%84%ed%95%9c-%ed%86%b5%ed%95%a9-%ec%86%94%eb%a3%a8%ec%85%98&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%ed%94%8c%eb%9d%bc%ec%8a%a4%ed%8b%b1-%ec%82%ac%ec%b6%9c-%ec%84%b1%ed%98%95-%eb%b0%8f-%ea%b8%88%ed%98%95-%ea%b0%9c%eb%b0%9c%ec%9d%84-%ec%9c%84%ed%95%9c-%ed%86%b5%ed%95%a9-%ec%86%94%eb%a3%a8%ec%85%98&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -203,7 +207,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ec%82%b0%ec%97%85-%ec%a0%9c%ec%a1%b0%ec%9d%98-%ec%9d%b4%ec%a0%95%ed%91%9c%ec%99%80-%ed%98%81%ec%8b%a0&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%ec%82%b0%ec%97%85-%ec%a0%9c%ec%a1%b0%ec%9d%98-%ec%9d%b4%ec%a0%95%ed%91%9c%ec%99%80-%ed%98%81%ec%8b%a0&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -213,7 +218,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ec%b5%9c%ea%b7%bc-%ed%95%98%ec%9d%b4%eb%9d%bc%ec%9d%b4%ed%8a%b8&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%ec%b5%9c%ea%b7%bc-%ed%95%98%ec%9d%b4%eb%9d%bc%ec%9d%b4%ed%8a%b8&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -232,15 +238,12 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#chia-kuan-2021-%ec%9a%b0%ec%88%98%ec%83%81-%ec%88%98%ec%83%81&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#chia-kuan-2021-%ec%9a%b0%ec%88%98%ec%83%81-%ec%88%98%ec%83%81&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;&lt;a
-  href=&#34;https://www.chiakuan.com/webls-en-us/msg/msg28.html&#34;
-    target=&#34;_blank&#34;
-  &gt;Chia Kuan Industrial&lt;/a&gt;
-는 2021년 묘리현 산업협회가 수여하는 영관락상 — 우수 산업기업상을 수상하였습니다. 이 상은 회사의 탁월함에 대한 헌신과 산업 부문에 대한 기여를 강조합니다.&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://www.chiakuan.com/webls-en-us/msg/msg28.html&#34; target=&#34;_blank&#34;&gt;Chia Kuan Industrial&lt;/a&gt;는 2021년 묘리현 산업협회가 수여하는 영관락상 — 우수 산업기업상을 수상하였습니다. 이 상은 회사의 탁월함에 대한 헌신과 산업 부문에 대한 기여를 강조합니다.&lt;/p&gt;</description>
       
     </item>
     
@@ -255,19 +258,12 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ec%a0%84-%ec%84%b8%ea%b3%84%eb%a1%9c-%ed%99%95%ec%9e%a5%ed%95%98%eb%8a%94-%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%9e%85%ec%a7%80&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%ec%a0%84-%ec%84%b8%ea%b3%84%eb%a1%9c-%ed%99%95%ec%9e%a5%ed%95%98%eb%8a%94-%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%9e%85%ec%a7%80&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;Chia Kuan은 &lt;a
-  href=&#34;https://www.chiakuan.com/webls-en-us/what-is-plastic-injection-molding.html&#34;
-    target=&#34;_blank&#34;
-  &gt;사출 성형&lt;/a&gt;
-과 &lt;a
-  href=&#34;https://www.chiakuan.com/webls-en-us/what-is-mold-development.html&#34;
-    target=&#34;_blank&#34;
-  &gt;금형 개발&lt;/a&gt;
- 분야에서 신뢰할 수 있는 품질과 정시 납품으로 명성을 쌓아왔습니다. 탁월함에 대한 우리의 헌신은 전 세계 고객들로부터 인정을 받았습니다.&lt;/p&gt;</description>
+&lt;p&gt;Chia Kuan은 &lt;a href=&#34;https://www.chiakuan.com/webls-en-us/what-is-plastic-injection-molding.html&#34; target=&#34;_blank&#34;&gt;사출 성형&lt;/a&gt;과 &lt;a href=&#34;https://www.chiakuan.com/webls-en-us/what-is-mold-development.html&#34; target=&#34;_blank&#34;&gt;금형 개발&lt;/a&gt; 분야에서 신뢰할 수 있는 품질과 정시 납품으로 명성을 쌓아왔습니다. 탁월함에 대한 우리의 헌신은 전 세계 고객들로부터 인정을 받았습니다.&lt;/p&gt;</description>
       
     </item>
     
@@ -282,7 +278,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ed%94%8c%eb%9d%bc%ec%8a%a4%ed%8b%b1-%ec%82%ac%ec%b6%9c-%ec%84%b1%ed%98%95%ec%9d%98-%ed%95%b5%ec%8b%ac-%ec%9b%90%eb%a6%ac%ec%99%80-%ea%b3%b5%ec%a0%95&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%ed%94%8c%eb%9d%bc%ec%8a%a4%ed%8b%b1-%ec%82%ac%ec%b6%9c-%ec%84%b1%ed%98%95%ec%9d%98-%ed%95%b5%ec%8b%ac-%ec%9b%90%eb%a6%ac%ec%99%80-%ea%b3%b5%ec%a0%95&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -301,7 +298,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%eb%8d%94-%ed%91%b8%eb%a5%b8-%eb%af%b8%eb%9e%98%eb%a5%bc-%ec%9c%84%ed%95%9c-%ec%a7%80%ec%86%8d-%ea%b0%80%eb%8a%a5%ed%95%9c-%ec%8b%a4%ec%b2%9c&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%eb%8d%94-%ed%91%b8%eb%a5%b8-%eb%af%b8%eb%9e%98%eb%a5%bc-%ec%9c%84%ed%95%9c-%ec%a7%80%ec%86%8d-%ea%b0%80%eb%8a%a5%ed%95%9c-%ec%8b%a4%ec%b2%9c&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -320,7 +318,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ec%a0%95%eb%b0%80-%ed%94%8c%eb%9d%bc%ec%8a%a4%ed%8b%b1-%ec%a0%9c%ec%a1%b0%ec%9d%98-%ec%9c%a0%ec%82%b0%ea%b3%bc-%ed%97%8c%ec%8b%a0&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%ec%a0%95%eb%b0%80-%ed%94%8c%eb%9d%bc%ec%8a%a4%ed%8b%b1-%ec%a0%9c%ec%a1%b0%ec%9d%98-%ec%9c%a0%ec%82%b0%ea%b3%bc-%ed%97%8c%ec%8b%a0&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -330,7 +329,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%eb%8c%80%eb%a7%8c%ec%97%90%ec%84%9c-36%eb%85%84-%ec%9d%b4%ec%83%81%ec%9d%98-%ec%a0%84%eb%ac%b8%ec%84%b1&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%eb%8c%80%eb%a7%8c%ec%97%90%ec%84%9c-36%eb%85%84-%ec%9d%b4%ec%83%81%ec%9d%98-%ec%a0%84%eb%ac%b8%ec%84%b1&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -349,7 +349,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ec%82%ac%ec%b6%9c-%ec%84%b1%ed%98%95-%ec%9a%b0%ec%88%98%ec%84%b1%ec%9d%84-%ec%9c%84%ed%95%9c-%ec%a0%84%eb%9e%b5%ec%a0%81-%eb%b0%a9%ed%96%a5%ea%b3%bc-%ed%95%b5%ec%8b%ac-%ec%9b%90%ec%b9%99&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%ec%82%ac%ec%b6%9c-%ec%84%b1%ed%98%95-%ec%9a%b0%ec%88%98%ec%84%b1%ec%9d%84-%ec%9c%84%ed%95%9c-%ec%a0%84%eb%9e%b5%ec%a0%81-%eb%b0%a9%ed%96%a5%ea%b3%bc-%ed%95%b5%ec%8b%ac-%ec%9b%90%ec%b9%99&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -359,15 +360,12 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%eb%b9%84%ec%a0%84&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%eb%b9%84%ec%a0%84&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;저희의 목표는 대만에서 &lt;a
-  href=&#34;https://www.chiakuan.com/webls-en-us/what-is-plastic-injection-molding.html&#34;
-    target=&#34;_blank&#34;
-  &gt;사출 성형&lt;/a&gt;
- 분야의 선도적인 계약 제조업체가 되는 것입니다. 모든 프로젝트에서 품질, 혁신 및 신뢰성을 통해 업계 기준을 설정하는 데 전념하고 있습니다.&lt;/p&gt;</description>
+&lt;p&gt;저희의 목표는 대만에서 &lt;a href=&#34;https://www.chiakuan.com/webls-en-us/what-is-plastic-injection-molding.html&#34; target=&#34;_blank&#34;&gt;사출 성형&lt;/a&gt; 분야의 선도적인 계약 제조업체가 되는 것입니다. 모든 프로젝트에서 품질, 혁신 및 신뢰성을 통해 업계 기준을 설정하는 데 전념하고 있습니다.&lt;/p&gt;</description>
       
     </item>
     

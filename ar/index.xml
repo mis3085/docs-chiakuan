@@ -20,7 +20,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d8%a7%d9%84%d8%a5%d9%86%d8%ac%d8%a7%d8%b2%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d8%a7%d8%a8%d8%aa%d9%83%d8%a7%d8%b1%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a7%d9%84%d8%aa%d8%b5%d9%86%d9%8a%d8%b9-%d8%a7%d9%84%d8%b5%d9%86%d8%a7%d8%b9%d9%8a&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d8%a7%d9%84%d8%a5%d9%86%d8%ac%d8%a7%d8%b2%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d8%a7%d8%a8%d8%aa%d9%83%d8%a7%d8%b1%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a7%d9%84%d8%aa%d8%b5%d9%86%d9%8a%d8%b9-%d8%a7%d9%84%d8%b5%d9%86%d8%a7%d8%b9%d9%8a&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -30,7 +31,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d8%a3%d8%a8%d8%b1%d8%b2-%d8%a7%d9%84%d8%a3%d8%ad%d8%af%d8%a7%d8%ab-%d8%a7%d9%84%d8%a3%d8%ae%d9%8a%d8%b1%d8%a9&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d8%a3%d8%a8%d8%b1%d8%b2-%d8%a7%d9%84%d8%a3%d8%ad%d8%af%d8%a7%d8%ab-%d8%a7%d9%84%d8%a3%d8%ae%d9%8a%d8%b1%d8%a9&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -49,15 +51,12 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d9%81%d9%88%d8%b2-chia-kuan-%d8%a8%d8%ac%d8%a7%d8%a6%d8%b2%d8%a9-%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d8%b2-%d9%84%d8%b9%d8%a7%d9%85-2021&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d9%81%d9%88%d8%b2-chia-kuan-%d8%a8%d8%ac%d8%a7%d8%a6%d8%b2%d8%a9-%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d8%b2-%d9%84%d8%b9%d8%a7%d9%85-2021&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;تم تكريم &lt;a
-  href=&#34;https://www.chiakuan.com/webls-en-us/msg/msg28.html&#34;
-    target=&#34;_blank&#34;
-  &gt;Chia Kuan Industrial&lt;/a&gt;
- بجائزة Yingguan Rock — جائزة التميز للمؤسسات الصناعية المتميزة من قبل جمعية الصناعة في مقاطعة مياولي عام 2021. يبرز هذا التكريم التزام الشركة بالتميز ومساهماتها في القطاع الصناعي.&lt;/p&gt;</description>
+&lt;p&gt;تم تكريم &lt;a href=&#34;https://www.chiakuan.com/webls-en-us/msg/msg28.html&#34; target=&#34;_blank&#34;&gt;Chia Kuan Industrial&lt;/a&gt; بجائزة Yingguan Rock — جائزة التميز للمؤسسات الصناعية المتميزة من قبل جمعية الصناعة في مقاطعة مياولي عام 2021. يبرز هذا التكريم التزام الشركة بالتميز ومساهماتها في القطاع الصناعي.&lt;/p&gt;</description>
       
     </item>
     
@@ -72,7 +71,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d8%a7%d9%84%d8%aa%d9%88%d8%a7%d8%b5%d9%84-%d9%85%d8%b9-chia-kuan-%d8%a7%d9%84%d9%85%d9%88%d9%82%d8%b9-%d9%88%d8%a7%d9%84%d9%88%d8%b5%d9%88%d9%84&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d8%a7%d9%84%d8%aa%d9%88%d8%a7%d8%b5%d9%84-%d9%85%d8%b9-chia-kuan-%d8%a7%d9%84%d9%85%d9%88%d9%82%d8%b9-%d9%88%d8%a7%d9%84%d9%88%d8%b5%d9%88%d9%84&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -82,19 +82,14 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%a7%d8%aa%d8%b5%d8%a7%d9%84&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%a7%d8%aa%d8%b5%d8%a7%d9%84&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;البريد الإلكتروني:&lt;/strong&gt; &lt;a
-  href=&#34;mailto:info@chiakuan.com.tw&#34;&gt;info@chiakuan.com.tw&lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;العنوان:&lt;/strong&gt; &lt;a
-  href=&#34;https://maps.app.goo.gl/7hUMsbEfg9avEUaR6&#34;
-    target=&#34;_blank&#34;
-  &gt;رقم 939، طريق رين آي، بلدة تشونان، مقاطعة مياولي، تايوان&lt;/a&gt;
-&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;البريد الإلكتروني:&lt;/strong&gt; &lt;a href=&#34;mailto:info@chiakuan.com.tw&#34;&gt;info@chiakuan.com.tw&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;العنوان:&lt;/strong&gt; &lt;a href=&#34;https://maps.app.goo.gl/7hUMsbEfg9avEUaR6&#34; target=&#34;_blank&#34;&gt;رقم 939، طريق رين آي، بلدة تشونان، مقاطعة مياولي، تايوان&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 class=&#34;relative group&#34;&gt;الاتجاهات إلى منشأتنا 
@@ -102,7 +97,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d8%a7%d9%84%d8%a7%d8%aa%d8%ac%d8%a7%d9%87%d8%a7%d8%aa-%d8%a5%d9%84%d9%89-%d9%85%d9%86%d8%b4%d8%a3%d8%aa%d9%86%d8%a7&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d8%a7%d9%84%d8%a7%d8%aa%d8%ac%d8%a7%d9%87%d8%a7%d8%aa-%d8%a5%d9%84%d9%89-%d9%85%d9%86%d8%b4%d8%a3%d8%aa%d9%86%d8%a7&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -122,7 +118,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d9%85%d9%85%d8%a7%d8%b1%d8%b3%d8%a7%d8%aa-%d9%85%d8%b3%d8%aa%d8%af%d8%a7%d9%85%d8%a9-%d9%85%d9%86-%d8%a3%d8%ac%d9%84-%d9%85%d8%b3%d8%aa%d9%82%d8%a8%d9%84-%d8%a3%d9%83%d8%ab%d8%b1-%d8%ae%d8%b6%d8%b1%d8%a9&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d9%85%d9%85%d8%a7%d8%b1%d8%b3%d8%a7%d8%aa-%d9%85%d8%b3%d8%aa%d8%af%d8%a7%d9%85%d8%a9-%d9%85%d9%86-%d8%a3%d8%ac%d9%84-%d9%85%d8%b3%d8%aa%d9%82%d8%a8%d9%84-%d8%a3%d9%83%d8%ab%d8%b1-%d8%ae%d8%b6%d8%b1%d8%a9&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -141,7 +138,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d9%86%d8%b8%d8%b1%d8%a9-%d8%b4%d8%a7%d9%85%d9%84%d8%a9-%d8%b9%d9%84%d9%89-%d9%85%d8%b3%d8%a7%d8%ad%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d9%86%d8%b4%d8%a3%d8%a9-%d9%88%d8%a8%d9%8a%d8%a6%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%85%d9%84&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d9%86%d8%b8%d8%b1%d8%a9-%d8%b4%d8%a7%d9%85%d9%84%d8%a9-%d8%b9%d9%84%d9%89-%d9%85%d8%b3%d8%a7%d8%ad%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d9%86%d8%b4%d8%a3%d8%a9-%d9%88%d8%a8%d9%8a%d8%a6%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%85%d9%84&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -160,7 +158,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d8%a7%d9%84%d9%82%d9%88%d8%a7%d9%84%d8%a8-%d9%85%d9%86-%d8%a3%d8%ac%d9%84-%d8%aa%d8%b5%d9%86%d9%8a%d8%b9-%d8%af%d9%82%d9%8a%d9%82&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d8%a7%d9%84%d9%82%d9%88%d8%a7%d9%84%d8%a8-%d9%85%d9%86-%d8%a3%d8%ac%d9%84-%d8%aa%d8%b5%d9%86%d9%8a%d8%b9-%d8%af%d9%82%d9%8a%d9%82&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -179,7 +178,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d8%a7%d9%84%d8%a7%d8%aa%d8%ac%d8%a7%d9%87-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b1%d8%a7%d8%aa%d9%8a%d8%ac%d9%8a-%d9%88%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%af%d8%a6-%d8%a7%d9%84%d8%a3%d8%b3%d8%a7%d8%b3%d9%8a%d8%a9-%d9%84%d8%aa%d9%85%d9%8a%d8%b2-%d8%ad%d9%82%d9%86-%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%b3%d8%aa%d9%8a%d9%83&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d8%a7%d9%84%d8%a7%d8%aa%d8%ac%d8%a7%d9%87-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b1%d8%a7%d8%aa%d9%8a%d8%ac%d9%8a-%d9%88%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%af%d8%a6-%d8%a7%d9%84%d8%a3%d8%b3%d8%a7%d8%b3%d9%8a%d8%a9-%d9%84%d8%aa%d9%85%d9%8a%d8%b2-%d8%ad%d9%82%d9%86-%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%b3%d8%aa%d9%8a%d9%83&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -189,7 +189,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d8%a7%d9%84%d8%b1%d8%a4%d9%8a%d8%a9&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d8%a7%d9%84%d8%b1%d8%a4%d9%8a%d8%a9&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -208,7 +209,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d8%aa%d8%b9%d8%af%d8%af%d9%8a%d8%a9-%d8%a7%d8%b3%d8%aa%d8%ae%d8%af%d8%a7%d9%85%d8%a7%d8%aa-%d8%aa%d8%b4%d9%83%d9%8a%d9%84-%d8%a7%d9%84%d8%ad%d9%82%d9%86-%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%b3%d8%aa%d9%8a%d9%83%d9%8a-%d9%81%d9%8a-%d8%a7%d9%84%d8%aa%d8%b5%d9%86%d9%8a%d8%b9-%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%ab&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d8%aa%d8%b9%d8%af%d8%af%d9%8a%d8%a9-%d8%a7%d8%b3%d8%aa%d8%ae%d8%af%d8%a7%d9%85%d8%a7%d8%aa-%d8%aa%d8%b4%d9%83%d9%8a%d9%84-%d8%a7%d9%84%d8%ad%d9%82%d9%86-%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%b3%d8%aa%d9%8a%d9%83%d9%8a-%d9%81%d9%8a-%d8%a7%d9%84%d8%aa%d8%b5%d9%86%d9%8a%d8%b9-%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%ab&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -227,7 +229,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d8%ad%d9%84%d9%88%d9%84-%d9%85%d8%aa%d9%83%d8%a7%d9%85%d9%84%d8%a9-%d9%84%d8%aa%d8%b4%d9%83%d9%8a%d9%84-%d8%a7%d9%84%d8%ad%d9%82%d9%86-%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%b3%d8%aa%d9%8a%d9%83%d9%8a-%d9%88%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d9%82%d9%88%d8%a7%d9%84%d8%a8&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d8%ad%d9%84%d9%88%d9%84-%d9%85%d8%aa%d9%83%d8%a7%d9%85%d9%84%d8%a9-%d9%84%d8%aa%d8%b4%d9%83%d9%8a%d9%84-%d8%a7%d9%84%d8%ad%d9%82%d9%86-%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%b3%d8%aa%d9%8a%d9%83%d9%8a-%d9%88%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d9%82%d9%88%d8%a7%d9%84%d8%a8&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -246,7 +249,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d9%85%d8%b4%d9%87%d8%af-%d8%a7%d9%84%d9%85%d8%b9%d8%af%d8%a7%d8%aa-%d9%84%d8%aa%d8%b4%d9%83%d9%8a%d9%84-%d8%a7%d9%84%d8%ad%d9%82%d9%86-%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%b3%d8%aa%d9%8a%d9%83%d9%8a&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d9%85%d8%b4%d9%87%d8%af-%d8%a7%d9%84%d9%85%d8%b9%d8%af%d8%a7%d8%aa-%d9%84%d8%aa%d8%b4%d9%83%d9%8a%d9%84-%d8%a7%d9%84%d8%ad%d9%82%d9%86-%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%b3%d8%aa%d9%8a%d9%83%d9%8a&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -265,7 +269,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d8%a3%d8%af%d9%88%d8%a7%d8%aa-%d9%85%d8%aa%d9%82%d8%af%d9%85%d8%a9-%d8%aa%d9%85%d9%83%d9%86-%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d9%88%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d8%a7%d9%84%d9%82%d9%88%d8%a7%d9%84%d8%a8&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d8%a3%d8%af%d9%88%d8%a7%d8%aa-%d9%85%d8%aa%d9%82%d8%af%d9%85%d8%a9-%d8%aa%d9%85%d9%83%d9%86-%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d9%88%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d8%a7%d9%84%d9%82%d9%88%d8%a7%d9%84%d8%a8&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -284,19 +289,12 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d8%aa%d9%88%d8%b3%d9%8a%d8%b9-%d8%ad%d8%b6%d9%88%d8%b1%d9%86%d8%a7-%d8%ad%d9%88%d9%84-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d8%aa%d9%88%d8%b3%d9%8a%d8%b9-%d8%ad%d8%b6%d9%88%d8%b1%d9%86%d8%a7-%d8%ad%d9%88%d9%84-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;لقد بنت Chia Kuan سمعة في تقديم جودة موثوقة وتسليم في الوقت المحدد في كل من &lt;a
-  href=&#34;https://www.chiakuan.com/webls-en-us/what-is-plastic-injection-molding.html&#34;
-    target=&#34;_blank&#34;
-  &gt;حقن البلاستيك&lt;/a&gt;
- و&lt;a
-  href=&#34;https://www.chiakuan.com/webls-en-us/what-is-mold-development.html&#34;
-    target=&#34;_blank&#34;
-  &gt;تطوير القوالب&lt;/a&gt;
-. لقد أكسبنا تفانينا في التميز اعتراف العملاء على مستوى العالم.&lt;/p&gt;</description>
+&lt;p&gt;لقد بنت Chia Kuan سمعة في تقديم جودة موثوقة وتسليم في الوقت المحدد في كل من &lt;a href=&#34;https://www.chiakuan.com/webls-en-us/what-is-plastic-injection-molding.html&#34; target=&#34;_blank&#34;&gt;حقن البلاستيك&lt;/a&gt; و&lt;a href=&#34;https://www.chiakuan.com/webls-en-us/what-is-mold-development.html&#34; target=&#34;_blank&#34;&gt;تطوير القوالب&lt;/a&gt;. لقد أكسبنا تفانينا في التميز اعتراف العملاء على مستوى العالم.&lt;/p&gt;</description>
       
     </item>
     
@@ -311,7 +309,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d8%a7%d9%84%d8%a5%d8%b1%d8%ab-%d9%88%d8%a7%d9%84%d8%a7%d9%84%d8%aa%d8%b2%d8%a7%d9%85-%d9%81%d9%8a-%d8%aa%d8%b5%d9%86%d9%8a%d8%b9-%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%b3%d8%aa%d9%8a%d9%83-%d8%a7%d9%84%d8%af%d9%82%d9%8a%d9%82&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d8%a7%d9%84%d8%a5%d8%b1%d8%ab-%d9%88%d8%a7%d9%84%d8%a7%d9%84%d8%aa%d8%b2%d8%a7%d9%85-%d9%81%d9%8a-%d8%aa%d8%b5%d9%86%d9%8a%d8%b9-%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%b3%d8%aa%d9%8a%d9%83-%d8%a7%d9%84%d8%af%d9%82%d9%8a%d9%82&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -321,7 +320,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d8%a3%d9%83%d8%ab%d8%b1-%d9%85%d9%86-36-%d8%b9%d8%a7%d9%85%d8%a7-%d9%85%d9%86-%d8%a7%d9%84%d8%ae%d8%a8%d8%b1%d8%a9-%d9%81%d9%8a-%d8%aa%d8%a7%d9%8a%d9%88%d8%a7%d9%86&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d8%a3%d9%83%d8%ab%d8%b1-%d9%85%d9%86-36-%d8%b9%d8%a7%d9%85%d8%a7-%d9%85%d9%86-%d8%a7%d9%84%d8%ae%d8%a8%d8%b1%d8%a9-%d9%81%d9%8a-%d8%aa%d8%a7%d9%8a%d9%88%d8%a7%d9%86&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -340,7 +340,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d8%a7%d9%84%d8%af%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d9%84-%d9%84%d8%b9%d9%85%d9%84%d9%8a%d8%a9-%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d9%82%d9%88%d8%a7%d9%84%d8%a8&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d8%a7%d9%84%d8%af%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d9%84-%d9%84%d8%b9%d9%85%d9%84%d9%8a%d8%a9-%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d9%82%d9%88%d8%a7%d9%84%d8%a8&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -359,7 +360,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%af%d8%a6-%d8%a7%d9%84%d8%a3%d8%b3%d8%a7%d8%b3%d9%8a%d8%a9-%d9%88%d8%b9%d9%85%d9%84%d9%8a%d8%a9-%d9%82%d9%88%d9%84%d8%a8%d8%a9-%d8%a7%d9%84%d8%ad%d9%82%d9%86-%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%b3%d8%aa%d9%8a%d9%83%d9%8a&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%af%d8%a6-%d8%a7%d9%84%d8%a3%d8%b3%d8%a7%d8%b3%d9%8a%d8%a9-%d9%88%d8%b9%d9%85%d9%84%d9%8a%d8%a9-%d9%82%d9%88%d9%84%d8%a8%d8%a9-%d8%a7%d9%84%d8%ad%d9%82%d9%86-%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%b3%d8%aa%d9%8a%d9%83%d9%8a&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
